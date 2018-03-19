@@ -1,0 +1,4 @@
+In Python you can manipulate basic data types: list, tuple, dict, set, str, etc
+In Python you can use many control structure: if-elif-else, for-in, while, etc
+In Python you can define your own function with 'def' keyword
+In Python you can write your own class with 'class' keyword
